@@ -47,7 +47,7 @@ Which car body type is most preferred by customers?
 
 ## Dashboard
 
-- Screenshot <a href="https://drive.google.com/file/d/1cOJy3alzHTsXoC2wN8R8UqZfkCo7dMvE/view?usp=drive_link">Screenshot</a>
+- Screenshot <a href="https://drive.google.com/file/d/12iZrqa72n5aBF4XDq2AIM1K2NEo8_JtK/view?usp=drive_link">Screenshot</a>
 
 
 
